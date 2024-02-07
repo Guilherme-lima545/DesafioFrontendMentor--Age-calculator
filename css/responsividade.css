@@ -1,0 +1,21 @@
+@media(mmax-width:768px) {
+
+    input {
+        width: 80%;
+    }
+
+    .output_span {
+        font-size: 1.75rem;
+    }
+
+    .seta {
+        width: 40px;
+        height: 40px;
+        right: 40%;
+        top: 90px;
+    }
+
+    .seta img {
+        transform: scale(0.5);
+    }
+}
